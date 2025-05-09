@@ -1,3 +1,3 @@
-from JUTT import abhishek
-abhishek()
+from JUTT import menu
+menu()
 
